@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lector Codigo QR</string>
+    <string name="nombreObra">Revolución</string>
+    <string name="obraDescripcion">Somos un proveedor de Construcción de obras industriales en Blvd. Bernardo Quintana No. 14-2 Queretaro, Queretaro . México.</string>
+    <string name="fechaInicio">15 de octubre de 2017</string>
+    <string name="fechaConclusion">15 de marzo de 2018</string>
+    <string name="tipoLicitacion">Federal</string>
+    <string name="empresa">Ingenierìa Hidraulica</string>
+    <string name="noContrato">1875</string>
+    <string name="monto">$ 1,850.00</string>
+    <string name="btnAcptar">Aceptar</string>
+    <string name="lblfechaInicio">Fecha de inicio: </string>
+    <string name="lblfechaConclusion">Fecha de conclusión: </string>
+    <string name="lbltipoLicitacion">Tipo licitación: </string>
+    <string name="lblempresa">Empresa: </string>
+    <string name="lblnoContrato">No. de contrato: </string>
+    <string name="lblmonto">Monto: </string>
+    <string name="lblDescripcion">Descripción: </string>
+    <string name="lblnombreObra">Nombre Obra: </string>
+</resources>
